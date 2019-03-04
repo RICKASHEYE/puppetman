@@ -1,0 +1,6 @@
+By Installing this app you hereby grant the owner of this app (rickasheyeLabs) your Android Advertising ID as apart of a section in the Developer Distrubution Argument (https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html)
+
+Note for Google:
+I no longer have the source code for my app so i cannot remove the ads on my app as i assume thats whats causing it
+also, the ads never worked properly in the first place, it still shows no activity on my dashboard
+again, since its on github i have no website other to publish this on to
